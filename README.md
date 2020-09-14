@@ -1,4 +1,4 @@
-# Project_Mental_stability
+# Project Mental Stability
 An analysis of mental stability in times of global crisis 
 
 Second group project
