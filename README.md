@@ -4,10 +4,10 @@ An analysis of mental stability in times of global crisis
 Second group project
 Visualizing Real World Data
 
-# Team Falafel
-*[Hannah Reber]*
-*[Lam-Tuyen Nuygen]*
-*[Ulrike Anklam]*
+# Team Sysiphos
+*[Hannah Reber]*  
+*[Lam-Tuyen Nuygen]*   
+*[Ulrike Anklam]*  
 
 *[DATA FT, Berlin & 08-2020]*
 
