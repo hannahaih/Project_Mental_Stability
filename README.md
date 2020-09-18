@@ -85,5 +85,5 @@ We used Trello (link in 'Links' section) to organise our workflow as described i
 The links to repository, presentation slides and trello board are:
 
 [Repository](https://github.com/Ulli-H/Project_Mental_stability)  
-[Slides](https://slides.com/lam-tuyen/deck-1e0339/review)
+[Slides](https://slides.com/lam-tuyen/deck-1e0339/review)  
 [Trello](https://trello.com/b/C2Ff4Bz8/team-sysiphos-mental-stability-in-times-of-crisis) 
