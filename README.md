@@ -51,6 +51,9 @@ We furthered our analysis by running various statistical tests, such as seasonal
 ## Links
 
 [Repository](https://github.com/hannahaih/Project_Mental_Stability)  
+
 [UFO dataset](http://www.nuforc.org/webreports.html)
+
 [Google trends](https://trends.google.com/trends/explore?q=UFO)
+
 [Ironhack assignment](https://github.com/ironhack-datalabs/data-ber-08-20/tree/master/Projects/module-2_projects/04_visualizing-real-world-data-project)
