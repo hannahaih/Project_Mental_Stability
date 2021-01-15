@@ -50,6 +50,6 @@ We furthered our analysis by running various statistical tests, such as seasonal
 
 ## Links
 
-[Repository](https://github.com/Ulli-H/Project_Mental_stability)  
-[Slides](https://slides.com/lam-tuyen/deck-1e0339/review)  
-[Trello](https://trello.com/b/C2Ff4Bz8/team-sysiphos-mental-stability-in-times-of-crisis) 
+[Repository](https://github.com/hannahaih/Project_Mental_Stability)  
+[UFO dataset](http://www.nuforc.org/webreports.html)
+[Google trends](https://trends.google.com/trends/explore?q=UFO)
